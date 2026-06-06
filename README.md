@@ -1,2 +1,2 @@
 # Split-Keyboard
-Split Keyboard I WOULD MAKE SPLIT KEYBOARD WHICH WOULD HAVE MANY FEATURES LIKE WE COULD USE LEFT PART AS A STANDALONE KEYBOARD AND WE COULD SPLIT OR JOIN VERY EASILY,WE COULD ALSO SWITH CAPS ANYTIME SO THERE IS NO DIFFICULTY.
+my project is Split Keyboard which can be split and join easily,the left part could be use as a standlone keyboard,it have a keypuller and 2 cables.i made this project because i love typing so i love keyboards and i heard 'SPLIT KEYBOARDS" for the first time so i also thought that this is interesting and it looked also easy and i was enough confident about it.
